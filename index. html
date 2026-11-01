@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ODENEHO | Software Engineer</title>
+<style>
+body{margin:0;background:#0f172a;color:white;font-family:sans-serif;text-align:center}
+.hero{padding:60px 20px}
+.hero img{width:160px;height:160px;border-radius:50%;border:4px solid #fbbf24;object-fit:cover}
+h1{font-size:32px;margin:15px 0 5px}
+.gold{color:#fbbf24}
+.skills{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;padding:20px}
+.skill{background:#1e293b;padding:10px 18px;border-radius:20px;border:1px solid #334155}
+.btn{background:#fbbf24;color:black;padding:12px 28px;border-radius:8px;text-decoration:none;font-weight:bold;display:inline-block;margin-top:20px}
+</style>
+</head>
+<body>
+<div class="hero">
+<img src="profile.jpg" alt="ODENEHO">
+<h1>ODENEHO <span class="gold">MAKING BILLIONS</span> 🔥</h1>
+<p>Software Engineer from Kumasi, Ghana<br>Building Scalable Products. Turning Ideas Into Billions.</p>
+<div class="skills">
+<div class="skill">⚛️ React</div>
+<div class="skill">🟨 JavaScript</div>
+<div class="skill">🐙 GitHub</div>
+<div class="skill">🎨 Tailwind CSS</div>
+<div class="skill">📱 HTML/CSS</div>
+</div>
+<a class="btn" href="https://github.com/christianwusu16-web">View GitHub</a>
+</div>
+</body>
+</html>
